@@ -1,4 +1,4 @@
-# Functions for Manipulating Data in PostgreSQL
+## Functions for Manipulating Data in PostgreSQL
 
 **Course Description:**
 
